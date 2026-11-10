@@ -1,4 +1,4 @@
-# Small curated spice rack.
+# Kentucky Fried Chicken.
 
 Eleven herbs and spices, so AI agents stop serving dry, tasteless chicken and start frying the real thing.
 
